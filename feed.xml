@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Devoción por Faulkner</title>
+    <link href="https://www.devocionporfaulkner.com/feed.xml" rel="self" />
+    <link href="https://www.devocionporfaulkner.com" />
+    <updated>2023-11-02T00:35:57+01:00</updated>
+    <author>
+        <name>Emilio D&#x27;Angelo</name>
+    </author>
+    <id>https://www.devocionporfaulkner.com</id>
+
+    <entry>
+        <title>¿Qué es devoción por Faulkner?</title>
+        <author>
+            <name>Emilio D&#x27;Angelo</name>
+        </author>
+        <link href="https://www.devocionporfaulkner.com/que-es-devocion-por-faulkner.html"/>
+        <id>https://www.devocionporfaulkner.com/que-es-devocion-por-faulkner.html</id>
+        <media:content url="https://www.devocionporfaulkner.com/media/posts/1/faulkner2.png" medium="image" />
+
+        <updated>2023-11-02T00:35:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.devocionporfaulkner.com/media/posts/1/faulkner2.png" alt="" />
+                    No es lo que esperas... Para averiguarlo vas a tener que venir a Sonic Boom el próximo viernes 24 de noviembre.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.devocionporfaulkner.com/media/posts/1/faulkner2.png" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">No es lo que esperas...</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.devocionporfaulkner.com/media/posts/1/Devocion-por-Faulkner-2.png" alt="Concierto Sonic Boom 24 de noviembre 20:30" width="2598" height="3626" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-xs.png 300w ,https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-sm.png 480w ,https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-md.png 768w ,https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-lg.png 1024w ,https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-xl.png 1360w ,https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-2xl.png 1600w"></figure>
+<p class="align-center">Para averiguarlo vas a tener que venir a <a href="https://www.sonicboom.es/" target="_blank" rel="noopener noreferrer">Sonic Boom</a> el próximo viernes 24 de noviembre.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

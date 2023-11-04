@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Devoción por Faulkner",
+    "description": "",
+    "home_page_url": "https://www.devocionporfaulkner.com",
+    "feed_url": "https://www.devocionporfaulkner.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Emilio D&#x27;Angelo"
+    },
+    "items": [
+        {
+            "id": "https://www.devocionporfaulkner.com/que-es-devocion-por-faulkner.html",
+            "url": "https://www.devocionporfaulkner.com/que-es-devocion-por-faulkner.html",
+            "title": "¿Qué es devoción por Faulkner?",
+            "summary": "No es lo que esperas... Para averiguarlo vas a tener que venir a Sonic Boom el próximo viernes 24 de noviembre.",
+            "content_html": "<p class=\"align-center\">No es lo que esperas...</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.devocionporfaulkner.com/media/posts/1/Devocion-por-Faulkner-2.png\" alt=\"Concierto Sonic Boom 24 de noviembre 20:30\" width=\"2598\" height=\"3626\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-xs.png 300w ,https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-sm.png 480w ,https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-md.png 768w ,https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-lg.png 1024w ,https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-xl.png 1360w ,https://www.devocionporfaulkner.com/media/posts/1/responsive/Devocion-por-Faulkner-2-2xl.png 1600w\"></figure>\n<p class=\"align-center\">Para averiguarlo vas a tener que venir a <a href=\"https://www.sonicboom.es/\" target=\"_blank\" rel=\"noopener noreferrer\">Sonic Boom</a> el próximo viernes 24 de noviembre.</p>",
+            "image": "https://www.devocionporfaulkner.com/media/posts/1/faulkner2.png",
+            "author": {
+                "name": "Emilio D&#x27;Angelo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-01T20:21:16+01:00",
+            "date_modified": "2023-11-02T00:35:57+01:00"
+        }
+    ]
+}

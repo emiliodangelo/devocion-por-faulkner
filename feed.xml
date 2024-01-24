@@ -3,12 +3,35 @@
     <title>Devoción por Faulkner</title>
     <link href="https://www.devocionporfaulkner.com/feed.xml" rel="self" />
     <link href="https://www.devocionporfaulkner.com" />
-    <updated>2024-01-24T22:51:17+01:00</updated>
+    <updated>2024-01-24T23:01:23+01:00</updated>
     <author>
         <name>Emilio D&#x27;Angelo</name>
     </author>
     <id>https://www.devocionporfaulkner.com</id>
 
+    <entry>
+        <title>23 de marzo 2024 - El Héroe Café</title>
+        <author>
+            <name>Emilio D&#x27;Angelo</name>
+        </author>
+        <link href="https://www.devocionporfaulkner.com/23-de-marzo-2024-el-heroe-cafe.html"/>
+        <id>https://www.devocionporfaulkner.com/23-de-marzo-2024-el-heroe-cafe.html</id>
+            <category term="Próximas actuaciones"/>
+
+        <updated>2024-01-24T22:59:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                    El 23 de marzo nos vemos para una intensa noche de rock'n roll en El Héroe Café Espectáculo, calle de Fancisco de Rojas,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://www.devocionporfaulkner.com/media/posts/6//dfh.webp" alt="" width="1500" height="492" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.devocionporfaulkner.com/media/posts/6//responsive/dfh-xs.webp 300w ,https://www.devocionporfaulkner.com/media/posts/6//responsive/dfh-sm.webp 480w ,https://www.devocionporfaulkner.com/media/posts/6//responsive/dfh-md.webp 768w ,https://www.devocionporfaulkner.com/media/posts/6//responsive/dfh-lg.webp 1024w ,https://www.devocionporfaulkner.com/media/posts/6//responsive/dfh-xl.webp 1360w ,https://www.devocionporfaulkner.com/media/posts/6//responsive/dfh-2xl.webp 1600w"></figure>
+<p>El 23 de marzo nos vemos para una intensa noche de rock'n roll en <a href="https://heroecafeespectaculo.com/" target="_blank" rel="noopener noreferrer">El Héroe Café Espectáculo</a>, calle de Fancisco de Rojas, 9, Madrid. Cerquita de la Glorieta de Bilbao.</p>
+<p>Estad atentos, que ya publicaremos más información.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>17 de febrero 2024 - Sonic Boom</title>
         <author>
@@ -18,7 +41,7 @@
         <id>https://www.devocionporfaulkner.com/17-de-febrero-2024-sonic-boom.html</id>
             <category term="Próximas actuaciones"/>
 
-        <updated>2024-01-24T22:51:17+01:00</updated>
+        <updated>2024-01-24T23:01:23+01:00</updated>
             <summary>
                 <![CDATA[
                     Ven a festejar con nosotros del 50 cumpleaños de nuestro bajista (se nos hace mayor el chico). Además contaremos con la exclusiva presentación&hellip;
